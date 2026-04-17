@@ -140,10 +140,10 @@ bypass-aigc-detection/
     └── chinese-emotion-article.md  # 中文感情文章示例（emotion_polish）
 ```
 
-## 致谢 / Credits
+## 许可与来源 / License & Attribution
 
-核心方法论提炼自 [chi111i/BypassAIGC](https://github.com/chi111i/BypassAIGC)。
+本技能的改写策略和 Prompt 设计衍生自 [BypassAIGC](https://github.com/chi111i/BypassAIGC) 项目（作者 Yan Wenxin），原项目采用 CC BY-NC-SA 4.0 许可证。本技能对原始 Prompt 进行了提炼、重组和格式化，不包含原项目的任何可执行代码。
 
-## License
+This skill's rewriting strategies and prompt designs are derived from [BypassAIGC](https://github.com/chi111i/BypassAIGC) by Yan Wenxin, licensed under CC BY-NC-SA 4.0. This skill distills and restructures the original prompts; it contains no executable code from the original project.
 
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — 禁止商业使用 / Non-commercial use only.

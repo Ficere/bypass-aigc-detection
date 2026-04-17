@@ -184,3 +184,9 @@ metadata:
 
 **最终输出：**
 > This system is by using microservices architecture to achieve high scalability and strong fault tolerance.
+
+## 许可与来源 / License & Attribution
+
+本技能的改写策略和 Prompt 设计衍生自 [BypassAIGC](https://github.com/chi111i/BypassAIGC) 项目（作者 Yan Wenxin），原项目采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可证。本技能对原始 Prompt 进行了提炼、重组和格式化，不包含原项目的任何可执行代码。
+
+This skill's rewriting strategies and prompt designs are derived from [BypassAIGC](https://github.com/chi111i/BypassAIGC) by Yan Wenxin, licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This skill distills and restructures the original prompts; it contains no executable code from the original project.
