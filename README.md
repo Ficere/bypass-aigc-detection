@@ -129,11 +129,15 @@ Rewritten:
 ```
 bypass-aigc-detection/
 ├── SKILL.md                   # 技能入口（Agent 自动读取）
-└── references/
-    ├── polish-prompt.md       # 第一阶段润色 Prompt
-    ├── enhance-prompt.md      # 第二阶段增强 Prompt
-    ├── emotion-prompt.md      # 感情文章改写 Prompt
-    └── architecture.md        # 系统架构与流程参考
+├── references/
+│   ├── polish-prompt.md       # 第一阶段润色 Prompt
+│   ├── enhance-prompt.md      # 第二阶段增强 Prompt
+│   ├── emotion-prompt.md      # 感情文章改写 Prompt
+│   └── architecture.md        # 系统架构与流程参考
+└── examples/
+    ├── chinese-academic-paper.md   # 中文学术论文示例（paper_polish_enhance）
+    ├── english-academic-paper.md   # 英文学术论文示例（paper_polish_enhance）
+    └── chinese-emotion-article.md  # 中文感情文章示例（emotion_polish）
 ```
 
 ## 致谢 / Credits
